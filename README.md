@@ -3,7 +3,7 @@ A clipboard eraser applet for the cinnamon desktop enviroment.
 
 ## How to install
 1. [Download the latest release](https://github.com/Techcrafter/cinnamon-clipboard-eraser/releases/latest).
-2. Unzip the `clipboard-eraser.zip` file to `~/.local/share/cinnamon/applets`.
+2. Unzip the downloaded file to `~/.local/share/cinnamon/applets`.
 3. Open the applets application, select the clipboard eraser and click on the + button.
 
 ### How to use
