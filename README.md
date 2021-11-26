@@ -1,10 +1,9 @@
-# Clipboard Eraser (For Cinnamon)
-A clipboard eraser applet for the cinnamon desktop enviroment.
+# Clipboard Eraser
+This simple applet allows you to erase your clipboard content with only one click.
 
-## How to install
-1. [Download the latest release](https://github.com/Techcrafter/cinnamon-clipboard-eraser/releases/latest).
-2. Unzip the `clipboard-eraser.zip` file to `~/.local/share/cinnamon/applets`.
-3. Open the applets application, select the clipboard eraser and click on the + button.
+## Features
+* Erases your clipboard contents with one click on the bomb icon.
 
-### How to use
-Click on the bomb icon whenever you want to erase your clipboard contents.
+### About
+* Version 1.0
+* [Applet repository](https://github.com/Techcrafter/cinnamon-clipboard-eraser)
